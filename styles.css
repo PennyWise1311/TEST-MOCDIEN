@@ -72,7 +72,7 @@ body {
     left: 0;
     right: 0;
     z-index: 1000;
-    background: transparent; /* Removed dark background */
+    background: transparent;
 }
 
 .header-top {
@@ -95,7 +95,7 @@ body {
 
 .navbar {
     padding: 15px 0;
-    background: transparent; /* Removed dark background */
+    background: transparent;
 }
 
 .navbar .container {
@@ -116,18 +116,35 @@ body {
     object-fit: contain;
 }
 
+.brand-text {
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+
 .brand-text h1 {
     font-family: 'UTM Avo Bold', sans-serif;
-    color: #D4AF37;
-    font-size: 24px;
-    line-height: 1.2;
+    color: #fff;
+    font-size: 32px;
+    line-height: 1.1;
     letter-spacing: 2px;
+    margin-right: 10px;
+}
+
+.brand-circle {
+    width: 20px;
+    height: 20px;
+    background: #D4AF37;
+    border-radius: 50%;
+    position: absolute;
+    top: 15px;
+    right: -25px;
 }
 
 .nav-menu {
     display: flex;
     list-style: none;
-    gap: 30px;
+    gap: 40px;
 }
 
 .nav-link {
@@ -138,7 +155,7 @@ body {
     font-weight: 500;
     transition: color 0.3s ease;
     position: relative;
-    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.8); /* Added text shadow for better visibility */
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.8);
 }
 
 .nav-link:hover,
@@ -160,9 +177,10 @@ body {
     display: flex;
     align-items: center;
     background: rgba(255, 255, 255, 0.1);
+    border: 1px solid rgba(255, 255, 255, 0.3);
     border-radius: 25px;
     padding: 8px 15px;
-    backdrop-filter: blur(10px); /* Added blur effect for better visibility */
+    backdrop-filter: blur(10px);
 }
 
 .search-box input {
@@ -189,8 +207,8 @@ body {
 /* Hero Section */
 .hero {
     position: relative;
-    height: 140vh; /* Increased from 120vh to 140vh */
-    min-height: 1100px; /* Increased from 900px to 1100px */
+    height: 140vh;
+    min-height: 1100px;
     overflow: hidden;
     display: flex;
     align-items: center;
@@ -223,7 +241,7 @@ body {
 }
 
 .signature-section {
-    margin-bottom: 100px; /* Increased from 80px to 100px */
+    margin-bottom: 100px;
 }
 
 .signature-title {
@@ -274,13 +292,13 @@ body {
     justify-content: center;
     gap: 30px;
     flex-wrap: wrap;
-    margin-bottom: 60px; /* Increased from 40px to 60px */
+    margin-bottom: 60px;
 }
 
 .product-card {
     position: relative;
     width: 200px;
-    height: 450px; /* Increased from 350px to 450px */
+    height: 450px;
     border-radius: 100px;
     overflow: hidden;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
@@ -667,8 +685,8 @@ body {
     }
     
     .hero {
-        height: 110vh; /* Increased from 100vh to 110vh for mobile */
-        min-height: 800px; /* Increased from 700px to 800px for mobile */
+        height: 110vh;
+        min-height: 800px;
     }
     
     .hero-content {
@@ -685,7 +703,7 @@ body {
     }
     
     .product-card {
-        height: 400px; /* Adjusted for mobile */
+        height: 400px;
     }
     
     .project-content,
