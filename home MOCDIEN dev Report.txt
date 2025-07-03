@@ -1,0 +1,63 @@
+Package Report
+
+-----------------------------------------------------------------------------
+Document:
+Name: home MOCDIEN dev.ai
+Color Mode: CMYK color
+Color Profile: U.S. Web Coated (SWOP) v2
+Ruler Units: points
+Artboard Dimensions: 571,6159 pt x 1489,304 pt
+Show Images in Outline Mode: OFF
+Highlight Substituted Fonts: OFF
+Highlight Substituted Glyphs: OFF
+Preserve Text Editability
+Simulate Colored Paper: OFF
+
+-----------------------------------------------------------------------------
+Spot Color Objects:
+PANTONE Neutral Black C (RGB)
+
+-----------------------------------------------------------------------------
+Missing Fonts:NONE
+
+-----------------------------------------------------------------------------
+Protected Fonts that were not packaged:NONE
+
+-----------------------------------------------------------------------------
+Fonts:
+Authentic Signature (TrueType)
+Myriad Pro Bold SemiExtended Italic (OTF)
+Myriad Pro Light (OTF)
+Myriad Pro (OTF)
+UTM Nyala (TrueType)
+UTMAvoBold (TrueType)
+UTM Avo Italic (TrueType)
+UTM Avo (TrueType)
+
+-----------------------------------------------------------------------------
+Embedded Fonts:
+
+
+-----------------------------------------------------------------------------
+Missing Links:
+NONE
+
+-----------------------------------------------------------------------------
+Linked Images:
+
+\\DESKTOP-KHNF768\CÔng Vic\MOCDIEN\layout_Folder\Links\gettyimages-640953340-2048x2048.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 8190K, 2048 by 1365 pixels
+Dimensions: 498,437 by 332,21 points 
+Resolution: 295,837 by 295,837 pixels per inch
+
+
+\\DESKTOP-KHNF768\CÔng Vic\MOCDIEN\layout_Folder\Links\gettyimages-1242531415-2048x2048.psd
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 98000K, 6137 by 4088 pixels
+Dimensions: 686,569 by 471,276 points 
+Resolution: 643,583 by 624,551 pixels per inch
