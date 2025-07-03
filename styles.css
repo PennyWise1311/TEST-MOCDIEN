@@ -187,8 +187,8 @@ body {
 /* Hero Section */
 .hero {
     position: relative;
-    height: 120vh; /* Increased from 100vh to 120vh */
-    min-height: 900px; /* Added minimum height */
+    height: 140vh; /* Increased from 120vh to 140vh */
+    min-height: 1100px; /* Increased from 900px to 1100px */
     overflow: hidden;
     display: flex;
     align-items: center;
@@ -221,7 +221,7 @@ body {
 }
 
 .signature-section {
-    margin-bottom: 80px; /* Increased from 60px to 80px */
+    margin-bottom: 100px; /* Increased from 80px to 100px */
 }
 
 .signature-title {
@@ -272,7 +272,7 @@ body {
     justify-content: center;
     gap: 30px;
     flex-wrap: wrap;
-    margin-bottom: 40px; /* Added margin bottom for spacing */
+    margin-bottom: 60px; /* Increased from 40px to 60px */
 }
 
 .product-card {
@@ -665,8 +665,8 @@ body {
     }
     
     .hero {
-        height: 100vh; /* Keep normal height on mobile */
-        min-height: 700px; /* Reduced minimum height for mobile */
+        height: 110vh; /* Increased from 100vh to 110vh for mobile */
+        min-height: 800px; /* Increased from 700px to 800px for mobile */
     }
     
     .hero-content {
