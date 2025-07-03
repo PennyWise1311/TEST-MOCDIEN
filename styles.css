@@ -276,7 +276,7 @@ body {
 .product-card {
     position: relative;
     width: 200px;
-    height: 350px;
+    height: 450px; /* Increased from 350px to 450px */
     border-radius: 100px;
     overflow: hidden;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
@@ -673,6 +673,10 @@ body {
     .product-showcase {
         flex-direction: column;
         align-items: center;
+    }
+    
+    .product-card {
+        height: 400px; /* Adjusted for mobile */
     }
     
     .project-content,
